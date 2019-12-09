@@ -1,0 +1,2 @@
+npm install ejs express socket.io
+yarn add ejs express socket.io
